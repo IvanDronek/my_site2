@@ -87,7 +87,7 @@ DATABASES = {
         'USER': 'navi',
         'PASSWORD': '18052819',
         'HOST': 'django-blog.coi1kfmstdoy.eu-north-1.rds.amazonaws.com',
-        'PORT': '5432'
+        'PORT': '5432',
     }
 }
 
